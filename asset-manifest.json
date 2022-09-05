@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/simple-curd-with-redux/static/css/main.366746ca.css",
-    "main.js": "/simple-curd-with-redux/static/js/main.b5c266ee.js",
-    "index.html": "/simple-curd-with-redux/index.html",
-    "main.366746ca.css.map": "/simple-curd-with-redux/static/css/main.366746ca.css.map",
-    "main.b5c266ee.js.map": "/simple-curd-with-redux/static/js/main.b5c266ee.js.map"
+    "main.css": "/simple-crud-with-redux/static/css/main.366746ca.css",
+    "main.js": "/simple-crud-with-redux/static/js/main.b5c266ee.js",
+    "index.html": "/simple-crud-with-redux/index.html",
+    "main.366746ca.css.map": "/simple-crud-with-redux/static/css/main.366746ca.css.map",
+    "main.b5c266ee.js.map": "/simple-crud-with-redux/static/js/main.b5c266ee.js.map"
   },
   "entrypoints": [
     "static/css/main.366746ca.css",
